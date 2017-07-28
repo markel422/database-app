@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">W2d3_ex03</string>
+    <string name="lbl_btn_save_data">SAVE DATA</string>
+    <string name="lbl_btn_read_data">READ DATA</string>
+    <string name="lbl_btn_update_data">UPDATE DATA</string>
+    <string name="lbl_result">Read: ID: %1$d Title: %2$s Subtitle: %3$s</string>
+    <string name="lbl_result_update">Old Title: %1$s New Title: %2$s</string>
+    <string name="lbl_btn_delete_data">DELETE DATA</string>
+    <string name="lbl_hint_title">Title</string>
+    <string name="lbl_hint_subtitle">Subtitle</string>
+    <string name="lbl_hint_update_title">Update Title Here</string>
+</resources>
